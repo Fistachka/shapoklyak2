@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>shapoklyak2</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="vyuga"/>
   <readme>
     <ru>fba9ac9cd240fe374c1f263730577f07933a2980e00d9472eb0bb4fdead70a3d</ru>
@@ -34,14 +34,14 @@
     <tonalities>2</tonalities>
     <video name="13.mp4" size="666141" type="video/mp4" volume="0.5">6b39e72e05478faa8fac912be1c81082d81742923dbef1ffe64de53740cd8711</video>
     <notes>
-      <note number="1" values="58" ticks="119" durationTicks="32" ppq="96" velocity="0.689"/>
-      <note number="2" values="58" ticks="169" durationTicks="30" ppq="96" velocity="0.75"/>
-      <note number="3" values="58" ticks="217" durationTicks="32" ppq="96" velocity="0.659"/>
-      <note number="4" values="58" ticks="263" durationTicks="34" ppq="96" velocity="0.772"/>
-      <note number="5" values="58" ticks="312" durationTicks="47" ppq="96" velocity="0.634"/>
-      <note number="6" values="68" ticks="362" durationTicks="46" ppq="96" velocity="0.8"/>
-      <note number="7" values="38" ticks="520" durationTicks="33" ppq="96" velocity="0.707"/>
-      <note number="8" values="38" ticks="567" durationTicks="47" ppq="96" velocity="0.822"/>
+      <note number="1" values="58" ticks="183" durationTicks="32" ppq="96" velocity="0.689"/>
+      <note number="2" values="58" ticks="233" durationTicks="30" ppq="96" velocity="0.75"/>
+      <note number="3" values="58" ticks="281" durationTicks="32" ppq="96" velocity="0.659"/>
+      <note number="4" values="58" ticks="327" durationTicks="34" ppq="96" velocity="0.772"/>
+      <note number="5" values="58" ticks="376" durationTicks="47" ppq="96" velocity="0.634"/>
+      <note number="6" values="68" ticks="426" durationTicks="46" ppq="96" velocity="0.8"/>
+      <note number="7" values="38" ticks="584" durationTicks="33" ppq="96" velocity="0.707"/>
+      <note number="8" values="38" ticks="631" durationTicks="47" ppq="96" velocity="0.822"/>
     </notes>
   </exercise>
   <exercise number="3">
